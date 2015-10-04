@@ -1,0 +1,3 @@
+[submodule "django-signage"]
+	path = django-signage
+	url = git@github.com:CodedInternet/django-signage.git
